@@ -1,12 +1,19 @@
-<img src="assets/logo.png" align="left" width="140" height="140" alt="RustNegar logo" style="border-radius: 22px; margin: 4px 20px 10px 0; border: 1px solid #e1e4e8;">
+<table>
+<tr>
+<td width="140" valign="top">
+<img src="assets/logo.png" width="120" height="120" alt="RustNegar logo" style="border-radius: 22px; border: 1px solid #e1e4e8;">
+</td>
+<td valign="top">
 
 # RustNegar
 
 RustNegar is a collection of open-source Rust tools that solve the challenge of displaying bidirectional (RTL) text — Persian, Arabic, and Hebrew — inside the terminal.
 
-Its flagship project, **دوسو** (*Dosu* — Persian for "two-directional," from *do* "two" + *su* "direction/way," a nod to the project's core focus on bidirectional text), wraps any terminal session and reorders RTL/LTR text correctly on the fly, without breaking the tools you already use.
+Its flagship project, **دوسو** (_Dosu_, Persian for "two-way" — also the everyday name for a double-ended screwdriver, flathead on one side and Phillips on the other, hence the logo), wraps any terminal session and reorders RTL/LTR text correctly on the fly, without breaking the tools you already use.
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ## Projects
 
