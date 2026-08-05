@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="140" valign="top">
-<img src="assets/logo.png" width="120" height="213" alt="RustNegar logo" style="border-radius: 22px; border: 1px solid #e1e4e8;">
+<img src="assets/logo.png" width="140" height="249" alt="RustNegar logo" style="border-radius: 22px; border: 1px solid #e1e4e8;">
 </td>
 <td valign="top">
 
